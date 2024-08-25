@@ -5,3 +5,4 @@
 - [2024-08-19 09:48:00] Perf: Reduce memory footprint for massive maze structures
 - [2024-08-19 19:27:00] Fix: Resolve coordinate mapping error in Dijkstra implementation
 - [2024-08-21 13:32:00] Fix: Resolve coordinate mapping error in Dijkstra implementation
+- [2024-08-25 17:49:00] Style: Update project branding and terminal splash screen
