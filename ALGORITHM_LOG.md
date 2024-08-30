@@ -7,3 +7,4 @@
 - [2024-08-21 13:32:00] Fix: Resolve coordinate mapping error in Dijkstra implementation
 - [2024-08-25 17:49:00] Style: Update project branding and terminal splash screen
 - [2024-08-25 18:03:00] Feature: Add export functionality for maze structures (PDF/PNG)
+- [2024-08-30 14:03:00] Fix: Correct dead-end detection logic
