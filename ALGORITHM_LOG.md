@@ -9,3 +9,4 @@
 - [2024-08-25 18:03:00] Feature: Add export functionality for maze structures (PDF/PNG)
 - [2024-08-30 14:03:00] Fix: Correct dead-end detection logic
 - [2024-08-30 16:29:00] Bugfix: Fix wall collision detection in solving phase
+- [2024-08-31 10:55:00] Update: Refine configuration parameters for generation
