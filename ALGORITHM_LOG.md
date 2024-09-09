@@ -15,3 +15,4 @@
 - [2024-09-05 18:41:00] Cleanup: Remove deprecated grid management functions
 - [2024-09-06 13:02:00] Refactor: Centralize algorithm registry
 - [2024-09-07 13:19:00] Fix: Handle edge cases in non-rectangular grids
+- [2024-09-09 11:19:00] Bugfix: Fix wall collision detection in solving phase
