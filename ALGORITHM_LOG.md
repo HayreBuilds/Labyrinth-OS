@@ -18,3 +18,4 @@
 - [2024-09-09 11:19:00] Bugfix: Fix wall collision detection in solving phase
 - [2024-09-10 14:37:00] Feat: Implement Recursive Backtracking for maze generation
 - [2024-09-11 20:28:00] UI: Add real-time visualization for BFS exploration
+- [2024-09-11 21:44:00] Perf: Reduce memory footprint for massive maze structures
