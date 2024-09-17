@@ -20,3 +20,4 @@
 - [2024-09-11 20:28:00] UI: Add real-time visualization for BFS exploration
 - [2024-09-11 21:44:00] Perf: Reduce memory footprint for massive maze structures
 - [2024-09-13 13:58:00] Refactor: Centralize algorithm registry
+- [2024-09-17 09:53:00] Feature: Add support for custom seed-based maze generation
