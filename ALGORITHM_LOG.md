@@ -22,3 +22,4 @@
 - [2024-09-13 13:58:00] Refactor: Centralize algorithm registry
 - [2024-09-17 09:53:00] Feature: Add support for custom seed-based maze generation
 - [2024-09-17 21:01:00] Style: Update project branding and terminal splash screen
+- [2024-09-18 12:41:00] UI: Improve step-by-step solver animation
