@@ -26,3 +26,4 @@
 - [2024-09-18 13:56:00] Feature: Implement maze serialization to JSON
 - [2024-09-19 17:48:00] Style: Modernize terminal output with ANSI colors
 - [2024-09-20 13:30:00] Feature: Add export functionality for maze structures (PDF/PNG)
+- [2024-09-21 19:19:00] Feat: Implement Recursive Backtracking for maze generation
