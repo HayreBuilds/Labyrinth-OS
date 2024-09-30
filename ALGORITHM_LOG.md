@@ -28,3 +28,4 @@
 - [2024-09-20 13:30:00] Feature: Add export functionality for maze structures (PDF/PNG)
 - [2024-09-21 19:19:00] Feat: Implement Recursive Backtracking for maze generation
 - [2024-09-24 13:19:00] Docs: Add algorithmic complexity analysis to README
+- [2024-09-30 10:02:00] Refactor: Centralize algorithm registry
