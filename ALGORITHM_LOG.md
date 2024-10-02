@@ -31,3 +31,4 @@
 - [2024-09-30 10:02:00] Refactor: Centralize algorithm registry
 - [2024-09-30 16:06:00] Feat: Integrate A* search with heuristic optimization
 - [2024-10-01 21:18:00] Fix: Correct dead-end detection logic
+- [2024-10-02 16:32:00] UI: Add real-time visualization for BFS exploration
