@@ -32,3 +32,4 @@
 - [2024-09-30 16:06:00] Feat: Integrate A* search with heuristic optimization
 - [2024-10-01 21:18:00] Fix: Correct dead-end detection logic
 - [2024-10-02 16:32:00] UI: Add real-time visualization for BFS exploration
+- [2024-10-02 19:38:00] Bugfix: Fix wall collision detection in solving phase
