@@ -35,3 +35,4 @@
 - [2024-10-02 19:38:00] Bugfix: Fix wall collision detection in solving phase
 - [2024-10-03 10:07:00] Feat: Implement Recursive Backtracking for maze generation
 - [2024-10-03 12:10:00] Feat: Implement Recursive Backtracking for maze generation
+- [2024-10-04 19:29:00] Refactor: Modularize visualization engine
