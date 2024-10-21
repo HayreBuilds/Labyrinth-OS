@@ -40,3 +40,4 @@
 - [2024-10-08 09:52:00] Bugfix: Fix wall collision detection in solving phase
 - [2024-10-14 18:23:00] Feat: Integrate A* search with heuristic optimization
 - [2024-10-20 10:25:00] Feature: Implement maze serialization to JSON
+- [2024-10-21 21:41:00] UI: Improve step-by-step solver animation
