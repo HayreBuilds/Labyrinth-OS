@@ -1,0 +1,37 @@
+[2026-05-08 14:32:32] === MAZE GAME INITIALIZED ===
+[2026-05-08 14:32:32] 
+╔════════════════════════════════════════════════════════════════╗
+║                         GAME CONTROLS                          ║
+╠════════════════════════════════════════════════════════════════╣
+║  SPACE         - Pause/Resume                                 ║
+║  R             - Restart Maze                                 ║
+║  N             - New Maze (Next)                              ║
+║  1/2/3/4       - Change Difficulty (Easy/Med/Hard/Extreme)   ║
+║  UP/DOWN       - Increase/Decrease Speed                      ║
+║  S             - Save Game State                              ║
+║  H             - Toggle HUD Display                           ║
+║  F             - Toggle FPS Display                           ║
+║  ESC           - Quit Game                                    ║
+╚════════════════════════════════════════════════════════════════╝
+        
+[2026-05-08 14:32:32] Game loop started
+[2026-05-08 14:34:03] FPS display disabled
+[2026-05-08 14:34:03] FPS display enabled
+[2026-05-08 14:34:03] Maze restarted
+[2026-05-08 14:34:03] FPS display disabled
+[2026-05-08 14:34:04] FPS display enabled
+[2026-05-08 14:34:04] Maze restarted
+[2026-05-08 14:34:04] FPS display disabled
+[2026-05-08 14:34:05] Maze restarted
+[2026-05-08 14:34:05] FPS display enabled
+[2026-05-08 14:34:05] Maze restarted
+[2026-05-08 14:34:05] FPS display disabled
+[2026-05-08 14:34:06] Speed decreased to 0.5x
+[2026-05-08 14:34:07] Speed decreased to 0.1x
+[2026-05-08 14:34:08] Speed increased to 0.6x
+[2026-05-08 14:34:11] Maze restarted
+[2026-05-08 14:34:13] Maze restarted
+[2026-05-08 14:34:15] Maze restarted
+[2026-05-08 14:34:22] FPS display enabled
+[2026-05-08 14:34:23] FPS display disabled
+[2026-05-08 14:34:25] === GAME SHUTTING DOWN ===
